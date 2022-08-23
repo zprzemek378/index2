@@ -1,0 +1,37 @@
+#container
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header
+{
+    text-align: center;
+    padding: 10px;
+}
+
+#pick
+{
+    clear:both;
+    width:1070px;
+    border: 5px solid black;
+    padding:10px;
+    text-align: center;
+}
+
+#finalCount
+{
+    margin-top:10px;
+    text-align:center;
+}
+
+#results
+{
+    text-align:center;
+    width:1070px;
+    border:5px solid black;
+    padding: 10px;
+    visibility: hidden;
+}
